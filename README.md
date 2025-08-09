@@ -24,7 +24,7 @@ A data analysis project that scrapes job postings from RemoteOK to help a recrui
 
 ## 📈 Sample Output
 
-![Top Companies Hiring](images/top_companies_chart.png)
+<img src="Visualization.jpg" alt="Top Companies Hiring" width="600">
 
 ## 📌 Next Steps
 - Automate weekly scraping
