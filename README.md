@@ -30,9 +30,8 @@ Visualization.jpg – Sample chart from analysis
 requirements.txt – Installable package list
 
 📈 Sample Output
-                              
-                              
-                              <img src="Visualization.jpg" alt="Top Companies Hiring" width="600">
+<img src="Visualization.jpg" alt="Top Companies Hiring" width="600">
+
 
 
 📌 Next Steps
